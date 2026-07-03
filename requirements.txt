@@ -1,0 +1,5 @@
+playwright
+python-telegram-bot
+nest_asyncio
+rich
+aiohttp

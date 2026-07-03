@@ -1,0 +1,26 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HIT @ 2026-02-15 16:38:14
+Card: 379363035785372|11|31|0013
+Link: https://checkout.stripe.com/c/pay/cs_live_a10OKXfnQdLVFOEUi7iyl2HFincEBoPvfJJR7PUiKFhIvpSuCyJdtH1kxo#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdpamZkaWAnPydgaycpJ3ZwZ3Zmd2x1cWxqa1BrbHRwYGtgdnZAa2RnaWBhJz9jZGl2YCknZHVsTmB8Jz8ndW5aaWxzYFowNFRtZlYyVHAydmtKSUxOX3c1TDBHXFFiaGpiTHdkT05CblxEUnY9Q3xxZ2RiM04wa2tpQm9UMmJCSE1%2FX0hEV19wXHFITV9gYGtdbWsxUDZzNUFMbVZIQTU1a0FWY39%2FYnEnKSdjd2poVmB3c2B3Jz9xd3BgKSdnZGZuYndqcGthRmppancnPycmNTU1NTU1JyknaWR8anBxUXx1YCc%2FJ3Zsa2JpYFpscWBoJyknYGtkZ2lgVWlkZmBtamlhYHd2Jz9xd3BgeCUl
+Identity: {'name': 'Robert Wilson', 'email': 'robertwilson638@yahoo.com', 'line1': '123 Main St', 'city': 'Macau', 'postal_code': '00000', 'country': 'MO'}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HIT @ 2026-02-15 17:01:17
+Card: 379363035798821|02|32|1765
+Link: https://checkout.stripe.com/c/pay/cs_live_a1OEOE2lDC12gFVSoG6hophEWMHJE6B5txxS192BDStlwHDEfF9dcq79Nl#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdpamZkaWAnPydgaycpJ3ZwZ3Zmd2x1cWxqa1BrbHRwYGtgdnZAa2RnaWBhJz9jZGl2YCknZHVsTmB8Jz8ndW5aaWxzYFowNFRtZlYyVHAydmtKSUxOX3c1TDBHXFFiaGpiTHdkT05CblxEUnY9Q3xxZ2RiM04wa2tpQm9UMmJCSE1%2FX0hEV19wXHFITV9gYGtdbWsxUDZzNUFMbVZIQTU1a0FWY39%2FYnEnKSdjd2poVmB3c2B3Jz9xd3BgKSdnZGZuYndqcGthRmppancnPycmNTU1NTU1JyknaWR8anBxUXx1YCc%2FJ3Zsa2JpYFpscWBoJyknYGtkZ2lgVWlkZmBtamlhYHd2Jz9xd3BgeCUl
+Identity: {'name': 'James Smith', 'email': 'jamessmith102@hotmail.com', 'line1': '123 Main St', 'city': 'Macau', 'postal_code': '00000', 'country': 'MO'}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HIT @ 2026-02-15 18:03:13
+Amount: US$20.00per month
+Card: 379363035799407|05|29|8438
+Link: https://checkout.stripe.com/c/pay/cs_live_a1q0psZ2RmIgfv9Sbf0YGdGmevQTYWXCRU4EssoFIH7R6v0sXLuj0YDHIe#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdpamZkaWAnPydgaycpJ3ZwZ3Zmd2x1cWxqa1BrbHRwYGtgdnZAa2RnaWBhJz9jZGl2YCknZHVsTmB8Jz8ndW5aaWxzYFowNFRtZlYyVHAydmtKSUxOX3c1TDBHXFFiaGpiTHdkT05CblxEUnY9Q3xxZ2RiM04wa2tpQm9UMmJCSE1%2FX0hEV19wXHFITV9gYGtdbWsxUDZzNUFMbVZIQTU1a0FWY39%2FYnEnKSdjd2poVmB3c2B3Jz9xd3BgKSdnZGZuYndqcGthRmppancnPycmNTU1NTU1JyknaWR8anBxUXx1YCc%2FJ3Zsa2JpYFpscWBoJyknYGtkZ2lgVWlkZmBtamlhYHd2Jz9xd3BgeCUl
+Identity: {'name': 'Richard Miller', 'email': 'richardmiller732@outlook.com', 'line1': '123 Main St', 'city': 'Macau', 'postal_code': '00000', 'country': 'MO'}
+Attempts: 1 | Total Hits: 1
+========================================
+HIT @ 2026-02-15 18:19:42
+Amount: 
+Card: 379363035759989|11|26|8022
+Link: https://checkout.stripe.com/c/pay/cs_live_a1q0psZ2RmIgfv9Sbf0YGdGmevQTYWXCRU4EssoFIH7R6v0sXLuj0YDHIe#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdpamZkaWAnPydgaycpJ3ZwZ3Zmd2x1cWxqa1BrbHRwYGtgdnZAa2RnaWBhJz9jZGl2YCknZHVsTmB8Jz8ndW5aaWxzYFowNFRtZlYyVHAydmtKSUxOX3c1TDBHXFFiaGpiTHdkT05CblxEUnY9Q3xxZ2RiM04wa2tpQm9UMmJCSE1%2FX0hEV19wXHFITV9gYGtdbWsxUDZzNUFMbVZIQTU1a0FWY39%2FYnEnKSdjd2poVmB3c2B3Jz9xd3BgKSdnZGZuYndqcGthRmppancnPycmNTU1NTU1JyknaWR8anBxUXx1YCc%2FJ3Zsa2JpYFpscWBoJyknYGtkZ2lgVWlkZmBtamlhYHd2Jz9xd3BgeCUl
+Identity: {'name': 'John Jones', 'email': 'johnjones580@yahoo.com', 'line1': '123 Main St', 'city': 'Macau', 'postal_code': '00000', 'country': 'MO'}
+Attempts: 1 | Total Hits: 1
+========================================

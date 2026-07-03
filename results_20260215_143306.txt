@@ -1,0 +1,16 @@
+# AUTOHITTER — Full Results
+# Developer: Krishn Dhola | @KrishnDhola1
+# Merchant: Chatly | Price: $20.00 USD | BIN: 3793630357
+# Total: 10 | Charged: 0 | Declined: 0 | 3DS: 0
+# =======================================================
+
+[ERROR] 379363035784854|01|30|7882 | AMEX | Michelle Hughes | Could not find card input fields | 5.8s
+[ERROR] 379363035789598|02|26|9188 | AMEX | Joseph Rodriguez | Could not find card input fields | 5.53s
+[ERROR] 379363035720205|02|30|5549 | AMEX | Margaret Evans | Could not find card input fields | 5.82s
+[ERROR] 379363035715536|05|31|6192 | AMEX | Samuel Campbell | Could not find card input fields | 5.36s
+[ERROR] 379363035769749|10|26|0038 | AMEX | Rachel Ruiz | Could not find card input fields | 5.67s
+[ERROR] 379363035705826|02|32|6275 | AMEX | John Morales | Could not find card input fields | 5.98s
+[ERROR] 379363035798698|07|32|7678 | AMEX | Margaret Kim | Could not find card input fields | 5.42s
+[ERROR] 379363035735104|12|26|6202 | AMEX | Stephen Jones | Could not find card input fields | 5.71s
+[ERROR] 379363035722946|12|28|9516 | AMEX | Timothy Flores | Could not find card input fields | 5.69s
+[ERROR] 379363035777700|09|32|0799 | AMEX | Joseph Allen | Could not find card input fields | 5.79s
